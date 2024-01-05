@@ -1,12 +1,10 @@
 # Coursera Machine Learning by Stanford University.
 
-[//]: # ([![Join us on Slack]&#40;https://img.shields.io/badge/slack-chat-green.svg?logo=slack&#41;]&#40;https://join.slack.com/t/ngc-goz8665/shared_invite/zt-r01kumfq-dQUT3c95BxEP_fnk4yJFfQ&#41;)
-
-![Contributors](https://img.shields.io/github/contributors/larymak/Python-project-Scripts?style=plastic)
-![Forks](https://img.shields.io/github/forks/larymak/Python-project-Scripts)
-![Stars](https://img.shields.io/github/stars/larymak/Python-project-Scripts)
-![Licence](https://img.shields.io/github/license/larymak/Python-project-Scripts)
-![Issues](https://img.shields.io/github/issues/larymak/Python-project-Scripts)
+![Contributors](https://img.shields.io/github/contributors/jvsadek/Coursera-Machine-Learning?style=plastic)
+![Forks](https://img.shields.io/github/forks/jvsadek/Coursera-Machine-Learning)
+![Stars](https://img.shields.io/github/stars/larymak/jvsadek/Coursera-Machine-Learning)
+![Licence](https://img.shields.io/github/license/jvsadek/Coursera-Machine-Learning)
+![Issues](https://img.shields.io/github/issues/jvsadek/Coursera-Machine-Learning)
 
 ## This is a list of Matlab scripts completed as part of Coursera Machine Learning course offered by Stanford University.
 
@@ -46,13 +44,13 @@ Find a copy of my certificate of completion Grade Achieved: 94.90% [HERE](https:
 Others like https://github.com/dibgerge/ml-coursera-python-assignments are showing it in Python. 
 
 ## Exercises
-| Exercise No | Project                                                                                                             |
-|-------------|---------------------------------------------------------------------------------------------------------------------|
-| 1           | [Gradient Descent]()
-| 2           | [Logistic Regression]()                                                                                             |
-| 3           | [Feature Normalize]()          |
-| 4           | [Cost function learning curve]()                                                                                    
-| 5           | [Spam emails classifier]()     |
-| 6           | [Clustering (K-means algorithm]()                                                                                   
-| 1           | [Photo compression with SVM]() |
-| 2           | [Recommender Systems]()                                                                                             
+| Exercise No | Project                                                                                               |
+|-------------|-------------------------------------------------------------------------------------------------------|
+| 1           | [Gradient Descent](https://github.com/jvsadek/Coursera-Machine-Learning/tree/master/ex1)              |
+| 2           | [Logistic Regression](https://github.com/jvsadek/Coursera-Machine-Learning/tree/master/ex2)           |
+| 3           | [Feature Normalize](https://github.com/jvsadek/Coursera-Machine-Learning/tree/master/ex3)             |
+| 4           | [Cost function learning curve](https://github.com/jvsadek/Coursera-Machine-Learning/tree/master/ex4)  |
+| 5           | [Spam emails classifier](https://github.com/jvsadek/Coursera-Machine-Learning/tree/master/ex5)        |
+| 6           | [Clustering (K-means algorithm](https://github.com/jvsadek/Coursera-Machine-Learning/tree/master/ex6) |
+| 1           | [Photo compression with SVM](https://github.com/jvsadek/Coursera-Machine-Learning/tree/master/ex7)    |
+| 2           | [Recommender Systems](https://github.com/jvsadek/Coursera-Machine-Learning/tree/master/ex8)           |
