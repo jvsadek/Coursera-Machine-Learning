@@ -2,7 +2,7 @@
 
 ![Contributors](https://img.shields.io/github/contributors/jvsadek/Coursera-Machine-Learning?style=plastic)
 ![Forks](https://img.shields.io/github/forks/jvsadek/Coursera-Machine-Learning)
-![Stars](https://img.shields.io/github/stars/larymak/jvsadek/Coursera-Machine-Learning)
+![Stars](https://img.shields.io/github/stars/jvsadek/Coursera-Machine-Learning)
 ![Licence](https://img.shields.io/github/license/jvsadek/Coursera-Machine-Learning)
 ![Issues](https://img.shields.io/github/issues/jvsadek/Coursera-Machine-Learning)
 
