@@ -52,5 +52,5 @@ Others like https://github.com/dibgerge/ml-coursera-python-assignments are showi
 | 4           | [Cost function learning curve](https://github.com/jvsadek/Coursera-Machine-Learning/tree/master/ex4)  |
 | 5           | [Spam emails classifier](https://github.com/jvsadek/Coursera-Machine-Learning/tree/master/ex5)        |
 | 6           | [Clustering (K-means algorithm](https://github.com/jvsadek/Coursera-Machine-Learning/tree/master/ex6) |
-| 1           | [Photo compression with SVM](https://github.com/jvsadek/Coursera-Machine-Learning/tree/master/ex7)    |
-| 2           | [Recommender Systems](https://github.com/jvsadek/Coursera-Machine-Learning/tree/master/ex8)           |
+| 7           | [Photo compression with SVM](https://github.com/jvsadek/Coursera-Machine-Learning/tree/master/ex7)    |
+| 8           | [Recommender Systems](https://github.com/jvsadek/Coursera-Machine-Learning/tree/master/ex8)           |
